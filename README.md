@@ -8,3 +8,6 @@
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/SirAlidadi) [![Telegram](https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white)](https://t.me/SirAlidadi)
+
+## Status
+![SirAlidadi GitHub stats](https://github-readme-stats.vercel.app/api?username=SirAlidadi&show_icons=true&theme=dracula)
