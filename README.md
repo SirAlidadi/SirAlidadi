@@ -1,13 +1,24 @@
-# Hi 👋 I'm Mohammad Hossein Alidadi
+### Hi there 👋, SirAlidadi
+####  Some people dream of success while others wake up and work
+![ Some people dream of success while others wake up and work](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-# **I'm Learning...**
->![Three JS](https://img.shields.io/badge/three%20js-%23323330.svg?style=for-the-badge&logo=three-js&logoColor=%23F7DF1E)
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-# **Practice**
->![Django](https://img.shields.io/badge/django-%2338B2AC.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white) 
+Skills: REACT / JS / Django / Python / Dart / Flutter
 
-## Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/SirAlidadi) [![Telegram](https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white)](https://t.me/SirAlidadi)
+- 🔭 I’m currently working on private project 
+- 🌱 I’m currently learning Flutter & Godot 
+- ⚡ Fun fact: Although it may sound counterintuitive, your small intestine is actually the largest (internal) organ in your body. 
 
-## Status
-![SirAlidadi GitHub stats](https://github-readme-stats.vercel.app/api?username=SirAlidadi&show_icons=true&theme=dracula)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SirAlidadi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/SirAlidadi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/SirAlidadi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/SirAlidadi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/SirAlidadi)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SirAlidadi)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirAlidadi)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SirAlidadi&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SirAlidadi)
+
+![Profile views](https://gpvc.arturio.dev/SirAlidadi)
