@@ -28,10 +28,5 @@ class Programmer:
     def get_programming_skill(self):
         return self.programming_skill
 
-mohammad_hossein_alidadi = Programmer(
-                                      "Mohammad Hossein", #name
-                                      "Alidadi Talkhestani", #lastname
-                                      20, #age
-                                      ["Python", "Django", "Javascript", "React", "Dart", "Flutter"] #skills
-                                    )
+mohammad_hossein_alidadi = Programmer("Mohammad Hossein", "Alidadi Talkhestani", 20, ["Python", "Django", "Javascript", "React", "Dart", "Flutter"])
 ```
